@@ -26,7 +26,7 @@ A simple, professional, and clean web-based Expense Tracker application. This pr
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Divyansh3105/Expense-Tracker.git
    ```
 2. **Navigate to the project directory**
    ```bash
